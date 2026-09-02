@@ -1,0 +1,82 @@
+# Microsoft Entra ID - Role-Based Access Control Lab
+
+##  Project Overview
+Implemented a complete Role-Based Access Control (RBAC) system in Microsoft Entra ID to simulate enterprise user and permission management.
+
+**Date:** September 1, 2024  
+
+*Platform:* Microsoft Azure / Entra ID
+
+---
+
+# Scenario
+Built a simulated company environment with multiple departments and assigned appropriate access levels to each team based on job function.
+
+---
+
+##  What I Built
+
+# Users Created
+- ** 5 total
+- Mike
+- Frank
+- Emma
+- Diana
+- John
+
+
+# Security Groups
+1. - Developers Group
+2. - IT Support Group
+3. - Managers Group
+4. - Finance Group
+
+
+
+---
+
+##  Screenshots
+
+- 
+
+
+
+
+
+
+
+ ___
+
+
+## Lessons
+
+# Principle of Least Privilege
+- Users should only have the minimum access needed to do their job
+- Reducing excessive permissions minimizes security risks
+- Group-based access makes management scalable
+
+# Role-Based Access Control (RBAC)
+- Assign permissions to groups, not individual users
+- Makes onboarding/offboarding easier (just add/remove from group)
+- Clear separation of duties between roles
+
+
+
+
+---
+
+
+##  Real-World Applications
+
+This lab simulates how I can manage role based access for employees.
+
+
+
+
+---
+
+##
+Created by Peace 
+Invested in growing in cloud security and identity management
+
+[LinkedIn Profile](https://www.linkedin.com/in/peacefasoore/)
