@@ -1,0 +1,17 @@
+
+user = "Cherry"
+account_status = "Active"
+role = "Manager"
+
+print("User Access Checker")
+print("Username:", user)
+print("Status:", account_status)
+print("Role:", role )
+
+if account_status == "Active":
+    if role == "Admin" or "Employee":
+        print("Valid User")
+else:
+        print("Invalid User")
+
+
